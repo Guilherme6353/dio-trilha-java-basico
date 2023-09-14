@@ -4,6 +4,7 @@ public class TiposVariaveis {
         // Pesquisar sobre String que representa texto na aplicação Java//
 
         String nome = "Guilherme";
+        System.out.println(nome);
 
         double salarioMinimo = 2500;
 
